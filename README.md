@@ -138,5 +138,5 @@ Follow `quicksight/dashboard_setup.md` for dashboard creation steps.
 ---
 
 ## 👤 Author
-Ravi Kumar Reddy  
-[LinkedIn](https://linkedin.com/in/ravikumarreddy) | [GitHub](https://github.com/ravikumarreddy)
+Cutie Nation
+[LinkedIn](https://linkedin.com/in/) | [GitHub](https://github.com/)
